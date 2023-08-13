@@ -94,6 +94,18 @@ These mathematical properties make RealNVP a versatile and powerful tool for den
 
 ## Results
 
+![image](https://github.com/DimensionDweller/realnvp_implimentation/assets/75709283/12e9d978-b037-419c-b7b1-d16412851ce7)
+
+![image](https://github.com/DimensionDweller/realnvp_implimentation/assets/75709283/b676f8a2-c247-4613-8452-3432f591222e)
+
+
+![image](https://github.com/DimensionDweller/realnvp_implimentation/assets/75709283/d6088574-a101-48d2-9d1a-395e33d8b7ce)
+
+![image](https://github.com/DimensionDweller/realnvp_implimentation/assets/75709283/80c9b7bf-b0f5-45af-bd28-f4b50ae31c94)
+
+
+
+
 Visualizations of the transformations and model's behavior can be observed throughout the training process. The project provides insights into how RealNVP transforms the input data, offering an intuitive understanding of its functionality.
 
 ## Usage
