@@ -1,5 +1,3 @@
-Certainly, Parker! Based on the provided style, here's the README for your RealNVP project:
-
 # RealNVP Implementation for 2D Density Estimation
 
 This project presents an implementation of RealNVP (Real-valued Non-Volume Preserving), a powerful model within the family of normalizing flows. Utilizing PyTorch, this implementation enables the modeling of complex 2D distributions through the use of affine coupling layers.
@@ -29,8 +27,6 @@ The project utilizes synthetic 2D data generated through the `datasets.make_moon
 ## Model Architecture
 
 RealNVP's architecture is built upon a series of affine coupling layers that alternate between variables, performing invertible transformations. Below is a general overview of the key components:
-
-Certainly! Here's an expanded explanation of the Affine Coupling Layer and RealNVP, with the relevant mathematical details.
 
 ### Affine Coupling Layer
 
@@ -140,4 +136,3 @@ The potential applications of RealNVP and normalizing flows are vast. Future wor
 
 - Dinh, L., Sohl-Dickstein, J., & Bengio, S. (2016). Density estimation using Real NVP. Retrieved from [arXiv:1605.08803](https://arxiv.org/abs/1605.08803)
 
-Feel free to make any adjustments or add any additional sections as needed. Let me know if you need further assistance!
